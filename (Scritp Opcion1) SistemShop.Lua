@@ -1,4 +1,5 @@
-l
+
+
 ----Este es un scritp y va enel ServerScriptService---
 
 ---Esta opcion 1 es la que hace que el jugador pueda comprar los Items sin limite------
